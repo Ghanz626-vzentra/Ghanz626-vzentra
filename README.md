@@ -22,8 +22,8 @@ I'm a developer and digital creator who enjoys building websites, experimenting 
 ╭──────────────────────────────────────╮
 │              GHANZ626                │
 ├──────────────────────────────────────┤
-│ 🧑 Name       : Ghanz626             │
-│ ⚡ Alias      : Ghanz162             │
+│ 🧑 Name       : Ghanz626/ghanz162    │
+│ ⚡ Friend      : iqz & zakki store   │
 │ 💻 Focus      : Web Development      │
 │ 🎨 Interest   : UI / UX & Design     │
 │ 🔥 Currently  : Building & Learning  │
@@ -62,17 +62,6 @@ I'm a developer and digital creator who enjoys building websites, experimenting 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ghanz626-vzentra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanz626-vzentra&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🔥 Contribution
 
@@ -90,8 +79,8 @@ I'm a developer and digital creator who enjoys building websites, experimenting 
 
 My personal website and digital profile.
 
-**Repository:**
-https://github.com/Ghanz626-vzentra/Ghanz626
+**website my Friend:**
+https://zakki.store
 
 **Website:**
 https://ghanz626-vzentra.github.io/Ghanz626/
